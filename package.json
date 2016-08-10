@@ -6,7 +6,7 @@
     "postinstall": "node lib/install.js",
     "build": "node lib/build.js",
     "start": "http-server -c-1 .",
-    "selenium": "cd webdriver-java && npm run selenium"
+    "selenium": "cd lib/webdriver-java && npm run selenium"
   },
   "keywords": [
     "benchmark",
