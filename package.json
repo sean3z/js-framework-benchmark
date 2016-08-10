@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Simple Benchmark for Javascript client side rendering",
   "scripts": {
-    "postinstall": "node install.js",
-    "build": "node build.js",
+    "postinstall": "node lib/install.js",
+    "build": "node lib/build.js",
     "start": "http-server -c-1 .",
     "selenium": "cd webdriver-java && npm run selenium"
   },
