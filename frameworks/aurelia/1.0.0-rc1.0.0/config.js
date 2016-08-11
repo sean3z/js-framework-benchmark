@@ -194,6 +194,7 @@ System.config({
       "npm:aurelia-templating@1.0.0-rc.1.0.1/aurelia-templating.js"
     ]
   },
+
   map: {
     "aurelia-animator-css": "npm:aurelia-animator-css@1.0.0-rc.1.0.0",
     "aurelia-bootstrapper": "npm:aurelia-bootstrapper@1.0.0-rc.1.0.1",
